@@ -6,4 +6,5 @@
 
 - 💻 I’m currently working on infrastructure
 - 🔐 I’m currently learning cybersec
+- 📘 <a href="https://www.linkedin.com/in/pauloraphaelscarvalho/"> Linkedin
 
