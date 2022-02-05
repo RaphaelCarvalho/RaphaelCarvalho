@@ -12,6 +12,7 @@
  
  <p align="left">
   <img src="https://img.shields.io/badge/Zabbix-%23f01742.svg?&style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/vmware%20-%235835DA.svg?&style=for-the-badge&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
